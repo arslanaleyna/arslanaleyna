@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: a Terraform-driven homelab (Proxmox → GitLab CI → K3s) with reproducible builds, backups, and monitoring<br>👯 I’m looking to collaborate on: beginner-friendly infra repos (Terraform modules, CI templates, Kubernetes bootstrap, observability dashboards) where reviews and standards matter<br>🤝 I’m looking for help with: choosing a clean GitOps path (Argo CD vs Flux) + structuring a repo so it’s “production-like” instead of a messy lab dump<br>🌱 I’m currently learning: Kubernetes networking & traffic flow (Ingress, Services, CNI basics) and how to make clusters observable by default (logs/metrics)<br>⚡ Fun fact: I name infrastructure like a saga (Asgard → Valhalla)… because if you’re going to suffer through networking, at least make it cinematic.
+🔭 I’m currently working on: wiring Terraform (Proxmox provisioning) + Ansible (K3s bootstrap) into GitLab CI for reproducible builds, backups, and monitoring  
+👯 I’m looking to collaborate on: beginner-friendly infra repos (Terraform modules, CI templates, Kubernetes bootstrap, observability dashboards) where reviews and standards matter  
+🤝 I’m looking for help with: choosing a clean GitOps path (Argo CD vs Flux) + structuring a repo so it’s “production-like” instead of a messy lab dump  
+🌱 I’m currently learning: running stateful apps on K3s (storage, permissions, ingress) — using a Plex/Sonarr/Radarr migration as my test case  
+⚡ Fun fact: I name infrastructure like a saga (Asgard → Valhalla)… because if you’re going to suffer through networking, at least make it cinematic.  
 
 
 ## 🌐 Socials:
