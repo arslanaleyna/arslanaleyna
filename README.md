@@ -22,4 +22,5 @@
 
 ## Contact
 > Feel free to get in touch via:
-https://www.linkedin.com/in/aleyna-arslan
+[https://www.linkedin.com/in/aleyna-arslan
+](https://www.linkedin.com/in/aleyna-arslan-682346186)
