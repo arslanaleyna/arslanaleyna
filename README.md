@@ -1,11 +1,10 @@
 # Hello there 👋 I'm Aleyna
 
-I build infrastructure, automate workflows, and explore Kubernetes and cloud-native systems.
+### I build infrastructure, automate workflows, and explore Kubernetes and cloud-native systems.
 
 ---
 
-## Currently working on
-
+I'm currently working on:
 - Building a Terraform-provisioned homelab on Proxmox
 - Bootstrapping K3s clusters via GitLab CI/CD
 - Designing reproducible infrastructure and deployment pipelines
