@@ -4,7 +4,7 @@ I build infrastructure, automate workflows, and explore Kubernetes and cloud-nat
 
 ---
 
-## 🔭 Current work
+## Currently working on
 
 - Building a Terraform-provisioned homelab on Proxmox
 - Bootstrapping K3s clusters via GitLab CI/CD
@@ -13,7 +13,7 @@ I build infrastructure, automate workflows, and explore Kubernetes and cloud-nat
 
 ---
 
-## ⭐ Favorite Tech
+## Favorite Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gitlab,python,bash,grafana,prometheus" />
@@ -21,6 +21,6 @@ I build infrastructure, automate workflows, and explore Kubernetes and cloud-nat
 
 ---
 
-## 📫 Contact
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/aleyna-arslan
