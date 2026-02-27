@@ -15,7 +15,7 @@
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gitlab,python,bash,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gitlab,python,bash,grafana" />
 </p>
 
 ---
