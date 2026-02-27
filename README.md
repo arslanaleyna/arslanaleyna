@@ -1,4 +1,4 @@
-# Hello there! I'm Aleyna
+# 👩🏻‍💻 Hi there! I'm Aleyna 
 
 #### I build infrastructure, automate workflows, and explore Kubernetes and cloud-native tooling.
 
@@ -22,4 +22,4 @@
 
 ## Contact
 > Feel free to get in touch via:
-LinkedIn: https://www.linkedin.com/in/aleyna-arslan
+https://www.linkedin.com/in/aleyna-arslan
